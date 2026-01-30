@@ -1,4 +1,4 @@
-public class Question04 
+public class Question05 
 {
 
     public static int add(int a, int b) {
@@ -21,4 +21,5 @@ public class Question04
         int exp2 = add(square(add(4, 7)), square(add(8, 3)));
         System.out.println("Result of (4 + 7)^2 + (8 + 3)^2 = " + exp2);
     }
+
 }
